@@ -39,12 +39,25 @@ Digitalizar y automatizar el proceso de registro de asistencia en la FUP, elimin
 - ✅ Validación temporal para evitar fraudes.
 - ✅ Regeneración dinámica para mayor seguridad.
 
-### 📊 **Registro y Análisis**
+### 📊 **Registro, Dashboard y Analíticas**
 
-- ✅ Marcado automático de asistencia via escaneo QR.
-- ✅ Opción de registro manual para casos especiales.
-- ✅ Dashboard de asistencia en tiempo real para docentes.
-- ✅ Reportes estadísticos y exportación de datos (PDF, CSV).
+- ✅ Marcado automático de asistencia vía escaneo QR.
+- ✅ Ajustes y registros manuales para casos especiales.
+- ✅ Dashboard de cumplimiento (docentes al día vs. en mora).
+- ✅ Porcentaje de bitácoras completadas y conteo de temas impartidos.
+- ✅ Reportes estadísticos descargables (PDF, Excel) para docentes y administradores.
+
+### 🔔 **Comunicaciones y Notificaciones**
+
+- ✅ Envío de correos a cuentas institucionales y personales.
+- ✅ Notificaciones masivas mediante WhatsApp Business.
+- ✅ Plantillas personalizadas y programación de avisos.
+
+### 🛠️ **Herramientas y Utilidades**
+
+- ✅ Módulo de carga masiva de datos (CSV/Excel) con validación y rollback.
+- ✅ Sistema de observaciones para clases canceladas o no impartidas.
+- ✅ Integración con Outlook para sincronizar eventos académicos.
 
 ---
 
@@ -187,7 +200,7 @@ Este es un proyecto académico, pero las sugerencias son bienvenidas.
 ## 📞 Soporte y Contacto
 
 **Desarrollador Principal**: Manuel Esteban Erazo Medina  
-**Email**: manuel.erazo@fup.edu.co  
+**Email**: manuel.erazo@estudiante.fup.edu.co  
 **Institución**: Fundación Universitaria de Popayán (FUP)  
 **Proyecto**: Trabajo de Grado - Ingeniería de Sistemas
 
